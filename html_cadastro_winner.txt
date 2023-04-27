@@ -1,0 +1,25 @@
+<div class="content-cadastro">        
+            <div id="cadastro">
+                <img class="bg-img" src="./img_cadastro.jpeg" alt="">
+                    <span class="cadastre">Cadastre sua conta:</span>
+                        <div class="formcadastro">
+                            <form action="./cadastro.html">
+                                <label for="text">Nome Completo</label>
+                                <input style="display:block" id="text" type="text" name="text">
+                
+                                <label for="email">Email</label>
+                                <input style="display:block" id="email" type="email" name="qualquercoisa" placeholder="Digite um e-mail válido">
+                
+                                <label for="password">Crie sua senha</label>
+                                <input style="display:block" id="password" type="password" name="password">
+                                <button id="buttonenviar">Cadastrar</button>     
+                
+                            </form>           
+                
+                        </div>                 
+                     
+            </div>
+
+
+
+    </div>
